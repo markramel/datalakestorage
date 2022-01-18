@@ -1,0 +1,9 @@
+{
+	"name": "adfmarkr",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "938fd1ec-0dcb-4278-80cd-beca54acff2c",
+		"tenantId": "07cc872f-b6e3-487f-834e-25eb4f34ddad"
+	}
+}
